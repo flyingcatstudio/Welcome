@@ -61,7 +61,7 @@
       "version": 28,
       "versionNonce": 809417164,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1754134327276,
       "link": null,
       "locked": false,
@@ -78,8 +78,8 @@
     {
       "id": "2Hah3PaygLlp4ori85As1",
       "type": "embeddable",
-      "x": 367.5,
-      "y": 397,
+      "x": 367.7734375,
+      "y": 397.265625,
       "width": 465.50000000000006,
       "height": 460.9999999999999,
       "angle": 0,
@@ -97,12 +97,12 @@
         "type": 3
       },
       "seed": 1780315084,
-      "version": 67,
-      "versionNonce": 1403220724,
+      "version": 69,
+      "versionNonce": 1767117556,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1754134374077,
-      "link": "https://www.nave.com",
+      "boundElements": [],
+      "updated": 1754136066915,
+      "link": "https://www.naver.com",
       "locked": false
     },
     {
@@ -130,7 +130,7 @@
       "version": 22,
       "versionNonce": 1975088628,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1754134393920,
       "link": "www.google.com",
       "locked": false
@@ -160,7 +160,7 @@
       "version": 14,
       "versionNonce": 1792244980,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1754134431551,
       "link": "https://coupang.com",
       "locked": false
@@ -190,7 +190,7 @@
       "version": 26,
       "versionNonce": 1807404620,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1754134499747,
       "link": "https://github.com/flyingcatstudio",
       "locked": false
@@ -1138,7 +1138,7 @@
       "version": 38,
       "versionNonce": 961031756,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1754134713017,
       "link": null,
       "locked": false,
