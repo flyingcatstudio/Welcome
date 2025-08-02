@@ -78,8 +78,13 @@
     {
       "id": "2Hah3PaygLlp4ori85As1",
       "type": "embeddable",
+<<<<<<< HEAD
       "x": 553,
       "y": 916,
+=======
+      "x": 367.7734375,
+      "y": 397.265625,
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "width": 465.50000000000006,
       "height": 460.9999999999999,
       "angle": 0,
@@ -97,12 +102,21 @@
         "type": 3
       },
       "seed": 1780315084,
+<<<<<<< HEAD
       "version": 165,
       "versionNonce": 534425191,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1754136172257,
       "link": "https://www.nave.com",
+=======
+      "version": 69,
+      "versionNonce": 1767117556,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1754136066915,
+      "link": "https://www.naver.com",
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "locked": false
     },
     {
@@ -131,7 +145,11 @@
       "versionNonce": 1298549127,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< HEAD
       "updated": 1754136172257,
+=======
+      "updated": 1754134393920,
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "link": "www.google.com",
       "locked": false
     },
@@ -161,7 +179,11 @@
       "versionNonce": 2031190183,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< HEAD
       "updated": 1754136172257,
+=======
+      "updated": 1754134431551,
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "link": "https://coupang.com",
       "locked": false
     },
@@ -191,7 +213,11 @@
       "versionNonce": 1955124167,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< HEAD
       "updated": 1754136172257,
+=======
+      "updated": 1754134499747,
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "link": "https://github.com/flyingcatstudio",
       "locked": false
     },
@@ -1139,7 +1165,11 @@
       "versionNonce": 1948055495,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< HEAD
       "updated": 1754136172257,
+=======
+      "updated": 1754134713017,
+>>>>>>> 8be40e5fd2047b88b083a024e630835503f720e0
       "link": null,
       "locked": false,
       "status": "pending",
